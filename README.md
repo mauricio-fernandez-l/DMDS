@@ -18,12 +18,12 @@ Dozent: Dr.-Ing. Mauricio Fernández
 
 Um die Inhalte online **anzusehen**, öffnen Sie die Ablage mit
 [nbviewer](https://nbviewer.jupyter.org/github/mauricio-fernandez-l/DMDS/tree/master/?flush_cache=false)
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mauricio-fernandez-l/Einfuehrung-in-digitale-Zwillinge/tree/master/?flush_cache=false)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mauricio-fernandez-l/DMDS/tree/master/?flush_cache=false)
 (nbviewer Diskussion über Aktualisierung [link](https://github.com/jupyter/nbviewer/issues/914))
 
 Um die Inhalte online **interaktiv zu verwenden**, öffnen Sie die Ablage mit
-[Binder](https://mybinder.org/v2/gh/mauricio-fernandez-l/DMDS/master)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mauricio-fernandez-l/DMDS/master).
+[Binder](https://mybinder.org/v2/gh/mauricio-fernandez-l/DMDS/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mauricio-fernandez-l/DMDS/main).
 
 ## Lokale Verwendung
 
